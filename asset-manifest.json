@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GSAPLandingPage/static/css/main.f855e6bc.css",
+    "main.js": "/GSAPLandingPage/static/js/main.8bbd589a.js",
+    "static/js/453.0a36081d.chunk.js": "/GSAPLandingPage/static/js/453.0a36081d.chunk.js",
+    "index.html": "/GSAPLandingPage/index.html",
+    "main.f855e6bc.css.map": "/GSAPLandingPage/static/css/main.f855e6bc.css.map",
+    "main.8bbd589a.js.map": "/GSAPLandingPage/static/js/main.8bbd589a.js.map",
+    "453.0a36081d.chunk.js.map": "/GSAPLandingPage/static/js/453.0a36081d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8bbd589a.js"
+  ]
+}
